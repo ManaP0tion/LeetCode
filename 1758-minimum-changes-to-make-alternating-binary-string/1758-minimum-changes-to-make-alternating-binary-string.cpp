@@ -7,13 +7,13 @@ public:
         for(int i = 0; i<s.length(); i++){
             
             if(i%2 == 0){
-                if(s[i] != '0') case1++;
-                if(s[i] != '1') case2++;    
+                if(s[i] == '1') case1++;
+                if(s[i] == '0') case2++;    
             }
 
             else{
-                if(s[i] != '1') case1++;
-                if(s[i] != '0') case2++;
+                if(s[i] == '0') case1++;
+                if(s[i] == '1') case2++;
             }            
         }
         return min(case1, case2);
