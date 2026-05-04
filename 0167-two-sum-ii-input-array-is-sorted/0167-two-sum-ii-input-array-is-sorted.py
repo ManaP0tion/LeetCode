@@ -5,15 +5,16 @@ class Solution:
         end = len(numbers) - 1
         
         while start <= end:
-            if numbers[start] + numbers[end] == target:
+            total = numbers[start] + numbers[end]
+            if total == target:
                 ans.append(start+1)
                 ans.append(end+1)
                 return ans
             
-            if numbers[start] + numbers[end] < target:
+            elif total < target:
                 start += 1
             
-            if numbers[start] + numbers[end] > target:
+            else:
                 end -= 1
 
             
