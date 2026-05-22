@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/ManaP0tion/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/ManaP0tion/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/ManaP0tion/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ManaP0tion/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManaP0tion/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1929-concatenation-of-array](https://github.com/ManaP0tion/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Binary Search
@@ -31,6 +32,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ManaP0tion/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/ManaP0tion/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ManaP0tion/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/ManaP0tion/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
