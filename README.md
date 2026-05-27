@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/ManaP0tion/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/ManaP0tion/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/ManaP0tion/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/ManaP0tion/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManaP0tion/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManaP0tion/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/ManaP0tion/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -55,6 +56,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/ManaP0tion/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManaP0tion/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -67,6 +69,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/ManaP0tion/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/ManaP0tion/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
