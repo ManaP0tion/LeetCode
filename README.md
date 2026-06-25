@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManaP0tion/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManaP0tion/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/ManaP0tion/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/ManaP0tion/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ManaP0tion/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/ManaP0tion/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManaP0tion/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/ManaP0tion/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManaP0tion/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
