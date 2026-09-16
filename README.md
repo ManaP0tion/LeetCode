@@ -27,6 +27,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManaP0tion/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0058-length-of-last-word](https://github.com/ManaP0tion/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0344-reverse-string](https://github.com/ManaP0tion/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManaP0tion/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@
 | [0088-merge-sorted-array](https://github.com/ManaP0tion/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManaP0tion/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/ManaP0tion/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/ManaP0tion/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManaP0tion/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
