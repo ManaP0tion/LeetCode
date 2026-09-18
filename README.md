@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/ManaP0tion/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ManaP0tion/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ManaP0tion/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/ManaP0tion/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManaP0tion/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/ManaP0tion/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManaP0tion/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -40,6 +41,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ManaP0tion/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/ManaP0tion/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/ManaP0tion/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManaP0tion/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/ManaP0tion/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
