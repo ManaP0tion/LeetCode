@@ -36,6 +36,7 @@
 | ------- | ------- |
 | [0066-plus-one](https://github.com/ManaP0tion/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/ManaP0tion/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0231-power-of-two](https://github.com/ManaP0tion/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/ManaP0tion/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/ManaP0tion/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/ManaP0tion/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -135,6 +137,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/ManaP0tion/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/ManaP0tion/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
